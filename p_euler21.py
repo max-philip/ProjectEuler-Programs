@@ -1,3 +1,7 @@
+# Problem 21
+# Amicable Numbers
+# Sum of all amicable numbers under 10000
+
 def sum_props(n):
     sum = 0
     for i in range(1, int(n/2)+1):
