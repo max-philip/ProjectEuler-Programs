@@ -1,4 +1,5 @@
-
+# Problem 8
+# Largest product in a series
 
 num = int(input('Enter a 1000-digit number: '))
 
